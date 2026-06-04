@@ -1,4 +1,4 @@
-package com.example.subtrackapp.ui.theme
+package com.example.subtrackapp.core.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
